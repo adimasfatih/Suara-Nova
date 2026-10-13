@@ -16,6 +16,10 @@ export const metadata: Metadata = {
   title: "Suara Nova - Media Konseling & Dukungan Psikologis",
   description:
     "Ruang aman untuk didengar dan bertumbuh. Pendampingan psikologis dan empati bagi generasi muda.",
+  icons: {
+    icon: "/images/logo.png",
+    apple: "/images/logo.png",
+  },
 };
 
 export const viewport: Viewport = {
